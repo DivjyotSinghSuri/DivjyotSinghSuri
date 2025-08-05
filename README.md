@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divjyot Singh Suri</h1>
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning Data Analytics
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/divjyotsinghsuri](https://www.datascienceportfol.io/divjyotsinghsuri)
 
