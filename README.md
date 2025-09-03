@@ -3,7 +3,8 @@
 
 Email Me 👉 ✉️ **suri.divjyot@gmail.com** For Collaboration/Project or Anything Else. 😊
 
-- 🔭 **I’m currently working on:*Optimizing Supply Chain with Predictive Sales Forecasting* This project analyzes 180k+ orders to uncover inefficiencies and business opportunities in the supply chain. Using Excel, SQL, Python, Tableau, and an AI forecasting agent, I tracked delivery performance, sales trends, and profitability across regions, product categories, and customer segments. Key insights included on-time delivery rates, discount impact on profit, and regional sales drivers. The project concludes with a predictive sales forecast and actionable recommendations to improve logistics efficiency and revenue growth.
+- 🔭 **I’m currently working on: *Optimizing Supply Chain with Predictive Sales Forecasting*
+This project analyzes 180k+ orders to uncover inefficiencies and business opportunities in the supply chain. Using Excel, SQL, Python, Tableau, and an AI forecasting agent, I tracked delivery performance, sales trends, and profitability across regions, product categories, and customer segments. Key insights included on-time delivery rates, discount impact on profit, and regional sales drivers. The project concludes with a predictive sales forecast and actionable recommendations to improve logistics efficiency and revenue growth.
 - 🌱 **I’m currently learning:** Microsoft Azure
 - 💬 **Ask me about:** Data Analytics and Engineering
 - 📫 **How to reach me:** suri.divjyot@gmail.com
