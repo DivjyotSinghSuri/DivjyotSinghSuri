@@ -1,16 +1,28 @@
-<h1 align="center">Hi 👋, I'm Divjyot Singh Suri</h1>
-- 🌱 I’m currently learning Data Analytics
+# 💫 Hi 👋, I'm Divjyot Singh Suri
+**A passionate Data Engineer || Data Analyst ||
 
-- 👨‍💻 All of my projects are available at [https://suridivjyot.wixsite.com/my-site-1](https://suridivjyot.wixsite.com/my-site-1)
+Email Me 👉 ✉️ **suri.divjyot@gmail.com** For Collaboration/Project or Anything Else. 😊
 
-- 📫 How to reach me **suri.divjyot@gmail.com**
+- 🔭 **I’m currently working on:*Optimizing Supply Chain with Predictive Sales Forecasting* This project analyzes 180k+ orders to uncover inefficiencies and business opportunities in the supply chain. Using Excel, SQL, Python, Tableau, and an AI forecasting agent, I tracked delivery performance, sales trends, and profitability across regions, product categories, and customer segments. Key insights included on-time delivery rates, discount impact on profit, and regional sales drivers. The project concludes with a predictive sales forecast and actionable recommendations to improve logistics efficiency and revenue growth.
+- 🌱 **I’m currently learning:** Microsoft Azure
+- 💬 **Ask me about:** Data Analytics and Engineering
+- 📫 **How to reach me:** suri.divjyot@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divjyot-singhsuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divjyot-singhsuri" height="30" width="40" /></a>
-<a href="https://instagram.com/divjyotsinghsuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divjyotsinghsuri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/divjyotsuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divjyotsuri" height="30" width="40" /></a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DivjyotSinghSuri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divjyot-singhsuri/) 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
